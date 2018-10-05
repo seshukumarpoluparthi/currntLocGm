@@ -345,6 +345,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 4755664329;
 				INFOPLIST_FILE = currntLocGm/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Exaact.currntLocGm;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -361,6 +362,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 4755664329;
 				INFOPLIST_FILE = currntLocGm/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Exaact.currntLocGm;
 				PRODUCT_NAME = "$(TARGET_NAME)";
